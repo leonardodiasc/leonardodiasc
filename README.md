@@ -20,4 +20,6 @@ Recently I have done a React and Typescript project of the front end design of a
 
 ![](https://cdn.iconscout.com/icon/premium/png-256-thumb/front-end-developer-4830933-4041850.png)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 Feel free to check out my repositories and reach out to me if you have any questions or would like to collaborate on a project.
