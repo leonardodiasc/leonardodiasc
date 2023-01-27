@@ -22,7 +22,7 @@ I have also completed a Certificate IV in Information Technology from Box Hill I
 
 Recently I have done a React and Typescript project of the front end design of a website using styled components, this project has allowed me to improve my skills in front-end development and design.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardodiasc)](https://github.com/leonardodiasc/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardodiasc&layout=compact)](https://github.com/leonardodiasc/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardodiasc)](https://github.com/leonardodiasc/github-readme-stats)
 
 Feel free to check out my repositories and reach out to me if you have any questions or would like to collaborate on a project.
