@@ -9,7 +9,7 @@ Fluent in English, and Portuguese, with intermediary Greek and Spanish.
 Love philosophy and science based tools to improve myself.
 
 
-<img align="right" src="https://img.freepik.com/premium-vector/programmer-with-code-cat-book-coffee-vector-clip-art-illustration_138676-92.jpg?w=2000">
+<img align="right" width="20%" height="20%"  src="https://img.freepik.com/premium-vector/programmer-with-code-cat-book-coffee-vector-clip-art-illustration_138676-92.jpg?w=2000">
 
 
 Recently I have done a React and Typescript project of the front end design of a website using styled components, this project has allowed me to improve my skills in front-end development and design.
