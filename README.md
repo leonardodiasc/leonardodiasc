@@ -4,11 +4,11 @@ Computer science student currently in my 5th semester at UNP.
 
 I have completed a Certificate IV in Information Technology from Box Hill Institute in Melbourne, Australia.
 
-Learning Typescript, React, and React Native, and Next.js
+Learning Typescript, React, Next.js, Express.js, and Python Django
 
 Love studying JavaScript with it's various frameworks both front end as React, and Next.js. and back end frameworks as Express.js.
 
-I also love Python and the promissing area of Data Science, always a pleasure to write code in Python.
+I also love Python and the promissing area of Data Science, always a pleasure to write code in Python. I also like to develop with Python utilizing web frameworks as Flask and Django.
 
 C++ and C will forever be the first languages I learned and they are dear to me.
 
