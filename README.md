@@ -14,7 +14,7 @@ C++ and C will forever be the first languages I learned and they are dear to me.
 
 Love philosophy and science based tools to improve myself.
 
-Fluent in English, and Portuguese, with intermediary Greek and Spanish.
+Fluent in English, and Portuguese, with intermediary Greek.
 
 <img align="right" width="40%" height="40%"  src="https://img.freepik.com/premium-vector/programmer-with-code-cat-book-coffee-vector-clip-art-illustration_138676-92.jpg?w=2000">
 
