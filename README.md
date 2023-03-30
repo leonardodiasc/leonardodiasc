@@ -6,6 +6,3 @@ I'm fluent in English and Portuguese, and I have an intermediary level of Greek.
 
 <img align="right" width="40%" height="40%"  src="https://img.freepik.com/premium-vector/programmer-with-code-cat-book-coffee-vector-clip-art-illustration_138676-92.jpg?w=2000">
 
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardodiasc)](https://github.com/leonardodiasc/github-readme-stats)
