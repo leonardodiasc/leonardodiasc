@@ -1,4 +1,4 @@
-Hi there, I'm Leonardo, a web developer currently working at the Municipal Secretary of Planning in Natal, Brazil. I'm also in my 6th semester of computer science studies at UNP.
+Hi there, I'm Leonardo, a web developer currently working at the Municipal Secretary of Planning in Natal, Brazil. I'm also a student of Development and Analysis of Systems at UniBF/ETEP
 
 I'm passionate about full-stack development, with a focus on technologies like Laravel for back-end development and React for front-end development. 
 
