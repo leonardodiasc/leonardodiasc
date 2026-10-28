@@ -1,6 +1,4 @@
-Hi there, I'm Leonardo, a web developer currently working at the Municipal Secretary of Planning in Natal, Brazil. I have a superior education degree in Development and Analysis of Systems at UniBF/ETEP
-
-I'm passionate about full-stack development, with a focus on technologies like Laravel for back-end development and React for front-end development. 
+I'm web developer passionate about full-stack development.
 
 Apart from programming, I love philosophy and using scientific protocols for self-improvement.
 
